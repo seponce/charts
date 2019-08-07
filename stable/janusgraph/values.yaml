@@ -3,7 +3,7 @@
 # Declare variables to be passed into your templates.
 
 image:
-  repository: gcr.io/cloud-solutions-images/janusgraph
+  repository: janusgraph/janusgraph:latest
   tag: v2
   pullPolicy: IfNotPresent
 
